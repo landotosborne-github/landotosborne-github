@@ -8,10 +8,10 @@ Open to RF test, hardware and test-automation roles in the Greater Seattle area.
 
 | Project | What it is |
 | --- | --- |
-| [**SKIPPY**](https://github.com/landotosborne-github/skippy-se-test-bench) | Automated shielding-effectiveness test bench: Python/SCPI control of a signal generator and spectrum analyzer, thousands of points per sweep, automated reports (write-up) |
+| [**SKIPPY**](https://github.com/landotosborne/skippy-se-test-bench) | Automated shielding-effectiveness test bench: Python/SCPI control of a signal generator and spectrum analyzer, thousands of points per sweep, automated reports (write-up) |
 | **3D-printed 915 MHz corner reflector** | Simulating, 3D-printing and range-testing a corner reflector antenna with a hand-built dipole feed *(in progress, repo coming soon)* |
-| [**heat-equation-2d**](https://github.com/landotosborne-github/heat-equation-2d) | Interactive 2D heat-equation simulator: Numba-accelerated finite-difference solver with a terminal UI (UCSB, 2023) |
-| [**johnson-noise**](https://github.com/landotosborne-github/johnson-noise) | Measuring Boltzmann's constant from resistor thermal noise at room temperature and 77 K (UCSB, 2022) |
+| [**heat-equation-2d**](https://github.com/landotosborne/heat-equation-2d) | Interactive 2D heat-equation simulator: Numba-accelerated finite-difference solver with a terminal UI (UCSB, 2023) |
+| [**johnson-noise**](https://github.com/landotosborne/johnson-noise) | Measuring Boltzmann's constant from resistor thermal noise at room temperature and 77 K (UCSB, 2022) |
 
 #### Tools
 
